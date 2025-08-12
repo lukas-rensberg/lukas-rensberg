@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lukasthedev.lukasthedev&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lukas-rensberg.lukas-rensberg&"  />
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lukasthedev/lukasthedev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lukas-rensberg/lukas-rensberg/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -53,8 +53,8 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=lukasthedev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasthedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=My%20most%20used%20languages" height="197" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=lukas-rensberg&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukas-rensberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=My%20most%20used%20languages" height="197" alt="languages graph"  />
 </div>
 
 ###
